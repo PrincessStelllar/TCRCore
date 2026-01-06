@@ -1,0 +1,18 @@
+{
+  "item.baublemounts.mount_bauble": "Bauble de Montaria",
+  "item.baublemounts.mount_bauble_broken": "Bauble de Montaria Quebrado",
+  "item.baublemounts.vehicle_bauble": "Chave de Veículo",
+  "item.baublemounts.vehicle_bauble_broken": "Chave de Veículo Quebrada",
+  "curios.identifier.mountbauble": "Bauble de Montaria",
+  "key.baublemounts.mountsummon": "Invocar Montaria",
+  "key.categories.baublemounts": "Bauble Mounts",
+  "tooltip.baublemounts.getname": "Nome da Montaria: %s",
+  "tooltip.baublemounts.gethealth": "Vida da Montaria: %s",
+  "tooltip.baublemounts.desc": "§oPressione Shift para mais informações",
+  "tooltip.baublemounts.shiftdesc": "Com este item, você pode guardar montarias pressionando o botão direito nelas. Você pode então liberar a montaria pressionando o botão direito novamente na unidade, ou colocá-la no slot de §eBauble de Montaria§r. Para liberar ou retirar uma montaria de um slot, pressione %s",
+  "tooltip.baublemounts.shiftdescbroken": "Este bauble está quebrado porque a montaria dentro dele morreu enquanto estava fora. Repare-o fabricando-o para que a montaria possa ser invocada novamente.",
+  "tooltip.baublemounts.vehicleshiftdesc": "Com este item, você pode guardar veículos pressionando o botão direito neles. Você pode então liberar o veículo pressionando o botão direito novamente na unidade, ou colocá-lo no slot de §eBauble de Montaria§r. Para liberar ou retirar um veículo de um slot, pressione %s",
+  "tooltip.baublemounts.vehicleshiftdescbroken": "Este bauble está quebrado porque o veículo dentro dele morreu enquanto estava fora. Repare-o fabricando-o para que o veículo possa ser invocado novamente.",
+  "sounds.baublemounts.mount_summon": "Invocar Montaria",
+  "sounds.baublemounts.mount_unsummon": "Desaparecer Montaria"
+}

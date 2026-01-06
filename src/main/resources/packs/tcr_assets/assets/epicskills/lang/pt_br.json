@@ -1,0 +1,80 @@
+{
+  "chat.epicskills.unlock_notification": "Nova árvore de habilidades desbloqueada ",
+  "chat.epicskills.messages.no_page": "Nenhuma página da árvore de habilidades",
+
+  "gui.epicskills.messages.change_skill_one": "Você gostaria de substituir %s por %s?",
+  "gui.epicskills.messages.change_skill_multiple": "Você gostaria de substituir uma habilidade aprendida por %s?",
+
+  "gui.epicskills.skill_tree": "Tela da árvore de habilidades",
+  "gui.epicskills.skill_tree.imported_node": "Esta habilidade é de %s",
+
+  "gui.epicskills.exp_meter.tooltip": "experiência atual / necessária para converter em pontos de habilidade",
+  "gui.epicskills.abilitypoints.tooltip": "Pontos de habilidade",
+  "gui.epicskills.openskilleditor.tooltip": "Abrir editor de habilidades",
+
+  "gui.epicskills.skillinfo.unlock": "Desbloquear",
+  "gui.epicskills.skillinfo.locked": "Bloqueada",
+  "gui.epicskills.skillinfo.equip": "Equipar",
+  "gui.epicskills.skillinfo.unequip": "Desequipar",
+
+  "gui.epicskills.skillinfo.no_ability_points.tooltip": "A habilidade requer %s AP. (você tem %s)",
+  "gui.epicskills.skillinfo.locked.tooltip": "A habilidade está bloqueada",
+  "gui.epicskills.skillinfo.already_equipping.tooltip": "Você está equipando a habilidade",
+
+  "item.epicskills.ability_stone": "Pedra de Habilidade",
+
+  "skill_tree.epicskills.battleborn": "Battleborn",
+  "skill_tree.epicskills.infernal_might": "Poder Infernal",
+  "skill_tree.epicskills.infernal_might.unlock_tip": "Encontre o poder profano em um mundo mais profundo",
+
+  "unlock_tip.epicskills.battleborn.meteor_slam": "Derrote o Dragão do End",
+
+  "commands.epicskills.failed.no_players": "Não foi possível encontrar jogadores correspondentes",
+  "commands.epicskills.abilitypoints.success.single": "Definidos os pontos de habilidade de %s para %s",
+  "commands.epicskills.abilitypoints.success.others": "Definidos pontos de habilidade para %s alvos",
+  "commands.epicskills.abilitypoints.reset_exp_requirement.success.single": "Reiniciada a exigência de experiência de %s",
+  "commands.epicskills.abilitypoints.reset_exp_requirement.success.others": "Reiniciada a exigência de experiência para %s alvos",
+  "commands.epicskills.abilitypoints.value.get.success": "O valor dos pontos de habilidade para o jogador %s é %s",
+  "commands.epicskills.abilitypoints.value.get.fail": "O jogador %s não tem pontos de habilidade",
+  "commands.epicskills.skilltree_progression.reset.success.single": "Reiniciada a árvore de habilidades de %s",
+  "commands.epicskills.skilltree_progression.reset.success.other": "Reiniciada a árvore de habilidades para %s alvos",
+  "commands.epicskills.skilltree_progression.unlock.success.single": "Desbloqueado %s na árvore de habilidades %s para %s",
+  "commands.epicskills.skilltree_progression.unlock.success.other": "Desbloqueado %s na árvore de habilidades %s para %s alvos",
+  "commands.epicskills.skilltree_progression.unlock.failed": "Não foi possível desbloquear o nó. O estado dos nós próximos está impedindo o desbloqueio.",
+  "commands.epicskills.skilltree_progression.lock.success.single": "Bloqueado %s na árvore de habilidades %s para %s",
+  "commands.epicskills.skilltree_progression.lock.success.other": "Bloqueado %s na árvore de habilidades %s para %s alvos",
+  "commands.epicskills.skilltree_progression.lock.failed": "Não foi possível bloquear o nó. O estado dos nós próximos está impedindo o bloqueio.",
+  "commands.epicskills.skilltree_progression.unlock_tree.success.single": "Desbloqueada %s para %s",
+  "commands.epicskills.skilltree_progression.unlock_tree.success.other": "Desbloqueada %s para %s alvos",
+  "commands.epicskills.skilltree_progression.lock_tree.success.single": "Bloqueada %s para %s",
+  "commands.epicskills.skilltree_progression.lock_tree.success.other": "Bloqueada %s para %s alvos",
+  "commands.epicskills.skilltree_progression.lock_tree.failed": "Não foi possível bloquear a árvore de habilidades. Limpe todos os nós ou use a opção force como true.",
+  "commands.epicskills.skilltree_progression.failed": "Falha ao executar o comando devido a dados de jogador inválidos",
+
+  "key.epicskills.gui": "Epic Fight: Skill Tree GUI",
+
+  "key.epicskills.open_skill_tree": "Abrir Árvore de Habilidades",
+  "key.epicskills.open_skill_tree.description": "Abre a tela da árvore de habilidades do Epic Fight",
+  "controller.epicskills.move_skill_tree_up": "Mover Árvore de Habilidades para Cima",
+  "controller.epicskills.move_skill_tree_up.description": "Move a visualização da árvore de habilidades para cima quando a árvore estiver aberta.",
+  "controller.epicskills.move_skill_tree_down": "Mover Árvore de Habilidades para Baixo",
+  "controller.epicskills.move_skill_tree_down.description": "Move a visualização da árvore de habilidades para baixo quando a árvore estiver aberta.",
+  "controller.epicskills.move_skill_tree_left": "Mover Árvore de Habilidades para a Esquerda",
+  "controller.epicskills.move_skill_tree_left.description": "Move a visualização da árvore de habilidades para a esquerda quando a árvore estiver aberta.",
+  "controller.epicskills.move_skill_tree_right": "Mover Árvore de Habilidades para a Direita",
+  "controller.epicskills.move_skill_tree_right.description": "Move a visualização da árvore de habilidades para a direita quando a árvore estiver aberta.",
+  "controller.epicskills.scale_skill_tree_up": "Aumentar Escala da Árvore de Habilidades",
+  "controller.epicskills.scale_skill_tree_up.description": "Aumenta o tamanho da árvore de habilidades quando estiver aberta.",
+  "controller.epicskills.scale_skill_tree_down": "Diminuir Escala da Árvore de Habilidades",
+  "controller.epicskills.scale_skill_tree_down.description": "Diminui o tamanho da árvore de habilidades quando estiver aberta.",
+  "controller.epicskills.navigate_skill_tree_next": "Próxima Página da Árvore de Habilidades",
+  "controller.epicskills.navigate_skill_tree_next.description": "Move para a próxima página da árvore de habilidades quando estiver aberta.",
+  "controller.epicskills.navigate_skill_tree_prev": "Página Anterior da Árvore de Habilidades",
+  "controller.epicskills.navigate_skill_tree_prev.description": "Move para a página anterior da árvore de habilidades quando estiver aberta.",
+  "controller.epicskills.open_skill_editor": "Abrir Editor de Habilidades",
+  "controller.epicskills.open_skill_editor.description": "Abre a tela do editor de habilidades a partir da árvore de habilidades.",
+  "controller.epicskills.convert_xp_to_ability_point": "Converter XP em Pontos de Habilidade",
+  "controller.epicskills.convert_xp_to_ability_point.description": "Troca XP por pontos de habilidade quando a árvore de habilidades estiver aberta.",
+
+  "eof": "eof"
+}

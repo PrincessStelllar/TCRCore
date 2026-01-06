@@ -1,0 +1,12 @@
+{
+  "itemGroup.dodosmobs.item": "Dodo's Mods Item",
+  "item.dodosmobs.amalgam_claws": "Garras de Amálgama",
+  "item.dodosmobs.chimera_armor_chestplate": "Peitoral de Armadura de Quimera",
+  "item.dodosmobs.chimera_claw": "Garra de Quimera",
+  "item.dodosmobs.bone_chimera_spawn_egg": "Ovo Gerador de Quimera de Osso",
+  "entity.dodosmobs.bone_chimera": "Quimera de Osso",
+  "effect.dodosmobs.wound": "Ferimento",
+  "death.attack.dodosmobs.wound": "A ferida se abriu.",
+  "death.attack.dodosmobs.wound.player": "A ferida se abriu",
+  "entity.dodosmobs.dead_horn": " Chifre Morto"
+}

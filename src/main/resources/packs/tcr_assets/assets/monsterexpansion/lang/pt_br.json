@@ -1,0 +1,284 @@
+{
+  "entity.monsterexpansion.skrythe": "Skrythe",
+  "entity.monsterexpansion.skrythe_tail": "Cauda de Skrythe",
+
+  "entity.monsterexpansion.rhyza": "Rhyza",
+  "entity.monsterexpansion.rhyza_tail": "Cauda de Rhyza",
+
+  "entity.monsterexpansion.leivekilth": "Leivekilth",
+  "entity.monsterexpansion.leivekilth_tail": "Cauda de Leivekilth",
+
+  "entity.monsterexpansion.rakoth": "Rakoth",
+  "entity.monsterexpansion.rakoth_tail": "Cauda de Rakoth",
+
+  "entity.monsterexpansion.skrythe_part": "Parte de Skrythe",
+  "entity.monsterexpansion.rhyza_part": "Parte de Rhyza",
+  "entity.monsterexpansion.leivekilth_part": "Parte de Leivekilth",
+  "entity.monsterexpansion.rakoth_part": "Parte de Rakoth",
+
+  "entity.monsterexpansion.kobeko": "Kobeko",
+
+  "tooltip.monsterexpansion.element": " Elemento",
+  "tooltip.monsterexpansion.weapon_type": " Tipo",
+  "tooltip.monsterexpansion.resistances": "Resistências",
+
+  "block.monsterexpansion.foundry_placeholder": "A Fundição",
+  "block.monsterexpansion.foundry": "A Fundição",
+
+  "item.monsterexpansion.skrythe_spawn_egg": "Ovo Gerador de Skrythe",
+  "item.monsterexpansion.rhyza_spawn_egg": "Ovo Gerador de Rhyza",
+  "item.monsterexpansion.leivekilth_spawn_egg": "Ovo Gerador de Leivekilth",
+  "item.monsterexpansion.rakoth_spawn_egg": "Ovo Gerador de Rakoth",
+  "item.monsterexpansion.kobeko_spawn_egg": "Ovo Gerador de Kobeko",
+
+  "item.monsterexpansion.skrythe_fang": "Presa de Skrythe",
+  "item.monsterexpansion.skrythe_armorplate": "Placa de Armadura de Skrythe",
+  "item.monsterexpansion.skrythe_wing_membrane": "Membrana de Asa de Skrythe",
+  "item.monsterexpansion.vocal_resonance_fold": "Prega de Ressonância Vocal",
+  "item.monsterexpansion.skrythe_frill": "Gola de Skrythe",
+  "item.monsterexpansion.skrythe_tail": "Cauda de Skrythe",
+
+  "item.monsterexpansion.rhyza_claw": "Garra de Rhyza",
+  "item.monsterexpansion.rhyza_fur": "Pelagem de Rhyza",
+  "item.monsterexpansion.rhyza_carapace": "Carapaça de Rhyza",
+  "item.monsterexpansion.rhyza_scale": "Escama de Rhyza",
+  "item.monsterexpansion.rhyza_tail": "Cauda de Rhyza",
+  "item.monsterexpansion.rhyza_gleam_core": "Núcleo de Brilho de Rhyza",
+  "item.monsterexpansion.serrated_sharpclaw": "Garra Afiada Serrilhada",
+  "item.monsterexpansion.monster_hardbone": "Osso Rígido de Monstro",
+
+  "item.monsterexpansion.leivekilth_armorplate": "Placa de Armadura de Leivekilth",
+  "item.monsterexpansion.leivekilth_rimepelt": "Pele de Geada de Leivekilth",
+  "item.monsterexpansion.leivekilth_tusk": "Presa de Leivekilth",
+  "item.monsterexpansion.hoarfrost_shard": "Fragmento de Geada Branca",
+  "item.monsterexpansion.deepfreeze_gland": "Glândula de Congelamento Profundo",
+  "item.monsterexpansion.leivekilth_tail": "Cauda de Leivekilth",
+
+  "item.monsterexpansion.rakoth_underplate": "Placa Inferior de Rakoth",
+  "item.monsterexpansion.rakoth_carapace": "Carapaça de Rakoth",
+  "item.monsterexpansion.rakoth_horn": "Chifre de Rakoth",
+  "item.monsterexpansion.sedimentary_scarp_shell": "Concha de Escarpa Sedimentar",
+  "item.monsterexpansion.bedrock_core": "Núcleo de Rocha de Matriz",
+  "item.monsterexpansion.rakoth_tail": "Cauda de Rakoth",
+
+
+
+  "item.monsterexpansion.flash_arrow": "Flecha de Flash",
+
+  "item.monsterexpansion.horn_of_the_shattercry": "Berrante do Grito Estilhaçador",
+  "item.monsterexpansion.duskrend": "Rasga-crepúsculo",
+  "item.monsterexpansion.rimescourge": "Flagelo da Geada",
+  "item.monsterexpansion.spire_shell_bulwark": "Baluarte de Concha de Agulha",
+  "item.monsterexpansion.taunt_shield": "Escudo de Provocação",
+  "item.monsterexpansion.whistlewind_horn": "Berrante do Vento Sibilante",
+  "item.monsterexpansion.vigor_belt": "Cinto de Vigor",
+  "item.monsterexpansion.flash_bundle": "Pacote de Flashes",
+  "item.monsterexpansion.kobeko_locator": "Localizador de Kobeko",
+
+
+  "item.monsterexpansion.skrythe_chestplate": "Peitoral de Skrythe",
+  "item.monsterexpansion.skrythe_helmet": "Elmo de Skrythe",
+  "item.monsterexpansion.skrythe_leggings": "Calças de Skrythe",
+  "item.monsterexpansion.skrythe_boots": "Botas de Skrythe",
+  "item.monsterexpansion.rhyza_helmet": "Elmo de Rhyza",
+  "item.monsterexpansion.rhyza_chestplate": "Peitoral de Rhyza",
+  "item.monsterexpansion.rhyza_leggings": "Calças de Rhyza",
+  "item.monsterexpansion.rhyza_boots": "Botas de Rhyza",
+  "item.monsterexpansion.leivekilth_helmet": "Elmo de Leivekilth",
+  "item.monsterexpansion.leivekilth_chestplate": "Peitoral de Leivekilth",
+  "item.monsterexpansion.leivekilth_leggings": "Calças de Leivekilth",
+  "item.monsterexpansion.leivekilth_boots": "Botas de Leivekilth",
+  "item.monsterexpansion.rakoth_helmet": "Elmo de Rakoth",
+  "item.monsterexpansion.rakoth_chestplate": "Peitoral de Rakoth",
+  "item.monsterexpansion.rakoth_leggings": "Calças de Rakoth",
+  "item.monsterexpansion.rakoth_boots": "Botas de Rakoth",
+
+  "item.monsterexpansion.kobeko_rakoth_helmet": "Elmo de Rakoth para Kobeko",
+  "item.monsterexpansion.kobeko_rakoth_chestplate": "Peitoral de Rakoth para Kobeko",
+  "item.monsterexpansion.kobeko_leivekilth_helmet": "Elmo de Leivekilth para Kobeko",
+  "item.monsterexpansion.kobeko_leivekilth_chestplate": "Peitoral de Leivekilth para Kobeko",
+  "item.monsterexpansion.kobeko_rhyza_helmet": "Elmo de Rhyza para Kobeko",
+  "item.monsterexpansion.kobeko_rhyza_chestplate": "Peitoral de Rhyza para Kobeko",
+  "item.monsterexpansion.kobeko_skrythe_helmet": "Elmo de Skrythe para Kobeko",
+  "item.monsterexpansion.kobeko_skrythe_chestplate": "Peitoral de Skrythe para Kobeko",
+  "item.monsterexpansion.kobeko_iron_helmet": "Elmo de Ferro para Kobeko",
+  "item.monsterexpansion.kobeko_iron_chestplate": "Peitoral de Ferro para Kobeko",
+  "item.monsterexpansion.kobeko_gold_helmet": "Elmo de Ouro para Kobeko",
+  "item.monsterexpansion.kobeko_gold_chestplate": "Peitoral de Ouro para Kobeko",
+  "item.monsterexpansion.kobeko_diamond_helmet": "Elmo de Diamante para Kobeko",
+  "item.monsterexpansion.kobeko_diamond_chestplate": "Peitoral de Diamante para Kobeko",
+  "item.monsterexpansion.kobeko_netherite_helmet": "Elmo de Netherite para Kobeko",
+  "item.monsterexpansion.kobeko_netherite_chestplate": "Peitoral de Netherite para Kobeko",
+
+  "item.monsterexpansion.wooden_mace": "Maça de Madeira",
+  "item.monsterexpansion.stone_mace": "Maça de Pedra",
+  "item.monsterexpansion.iron_mace": "Maça de Ferro",
+  "item.monsterexpansion.golden_mace": "Maça de Ouro",
+  "item.monsterexpansion.diamond_mace": "Maça de Diamante",
+  "item.monsterexpansion.netherite_mace": "Maça de Netherite",
+  "item.monsterexpansion.wooden_spear": "Lança de Madeira",
+  "item.monsterexpansion.stone_spear": "Lança de Pedra",
+  "item.monsterexpansion.iron_spear": "Lança de Ferro",
+  "item.monsterexpansion.golden_spear": "Lança de Ouro",
+  "item.monsterexpansion.diamond_spear": "Lança de Diamante",
+  "item.monsterexpansion.netherite_spear": "Lança de Netherite",
+
+  "enchantment.monsterexpansion.polyphony": "Polifonia",
+  "enchantment.monsterexpansion.echoing_reach": "Alcance Ecoante",
+  "enchantment.monsterexpansion.lunacy": "Lunatismo",
+
+  "effect.monsterexpansion.cloaked": "Camuflado",
+  "effect.monsterexpansion.frostvein": "Veia de Gelo",
+  "effect.monsterexpansion.blinded": "Cego",
+  "effect.monsterexpansion.cloaked_cooldown": "Recarga de Camuflagem",
+  "effect.monsterexpansion.discombobulated": "Desnorteado",
+  "effect.monsterexpansion.bleeding": "Sangramento",
+  "effect.monsterexpansion.stunned": "Atordoado",
+  "effect.monsterexpansion.lethargy": "Letargia",
+
+  "screen.monsterexpansion.foundry": "A Fundição",
+
+  "tooltip.monsterexpansion.spireshellbulwark.description": "Um escudo pesado com espinhos forjado de placas de Rakoth.",
+  "tooltip.monsterexpansion.spireshellbulwark.charge": "» Segurar Botão Direito + Correr: ",
+  "tooltip.monsterexpansion.spireshellbulwark.charge_details": "Investida. O impacto causa dano e aplica Sangramento.",
+  "tooltip.monsterexpansion.spireshellbulwark.passive": "» Passivo: ",
+  "tooltip.monsterexpansion.spireshellbulwark.passive_details": "Você é capaz de bloquear ataques que desativariam ou ignorariam escudos comuns. (Monstros grandes excluídos)",
+  "tooltip.monsterexpansion.spireshellbulwark.flavor": "Nada passará por você agora.",
+
+  "tooltip.monsterexpansion.kobeko_armor.description": "Uma peça de armadura para o Kobeko.",
+  "tooltip.monsterexpansion.kobeko_armor.armor": "Armadura: ",
+  "tooltip.monsterexpansion.kobeko_armor.toughness": "Resistência: ",
+
+  "tooltip.monsterexpansion.leivekilth_armor.description": "Uma peça de armadura fabricada com materiais de Leivekilth",
+  "tooltip.monsterexpansion.leivekilth_armor.set_bonus": "Bônus de Conjunto:",
+  "tooltip.monsterexpansion.leivekilth_armor.frostwalker": "Você ganha o controle de gelo do Leivekilth; possui passos gelados permanentes.",
+  "tooltip.monsterexpansion.leivekilth_armor.ice_armor": "Você ganha a armadura de gelo do Leivekilth; chance de expelir gelo, danificando quem te atacar.",
+  "tooltip.monsterexpansion.leivekilth_armor.damage_reduction": "+1.8% de Redução de Dano para cada peça usada.",
+
+  "tooltip.monsterexpansion.leivekilth_kobeko_armor.description": "Uma peça de armadura fabricada com materiais de Leivekilth para o Kobeko.",
+  "tooltip.monsterexpansion.leivekilth_kobeko_armor.set_bonus": "Bônus de Conjunto:",
+  "tooltip.monsterexpansion.leivekilth_kobeko_armor.stagger_effect": "O cambalear do Kobeko estilhaça gelo, danificando os próximos.",
+
+  "tooltip.monsterexpansion.rakoth_armor.description": "Uma peça de armadura fabricada com materiais de Rakoth",
+  "tooltip.monsterexpansion.rakoth_armor.set_bonus": "Bônus de Conjunto:",
+  "tooltip.monsterexpansion.rakoth_armor.step_over_blocks": "Você ganha a firmeza do Rakoth; você pode subir blocos inteiros.",
+  "tooltip.monsterexpansion.rakoth_armor.momentum_deflect": "Você ganha a massa inabalável do Rakoth; correr gera ímpeto para repelir projéteis.",
+  "tooltip.monsterexpansion.rakoth_armor.damage_reduction": "+1.2% de Redução de Dano para cada peça usada.",
+
+  "tooltip.monsterexpansion.rakoth_kobeko_armor.description": "Uma peça de armadura fabricada com materiais de Rakoth para o Kobeko.",
+  "tooltip.monsterexpansion.rakoth_kobeko_armor.set_bonus": "Bônus de Conjunto:",
+  "tooltip.monsterexpansion.rakoth_kobeko_armor.aoe_attack": "Os ataques comuns do Kobeko tornam-se ataques em área.",
+
+  "tooltip.monsterexpansion.rhyza_kobeko_armor.description": "Uma peça de armadura fabricada com materiais de Rhyza para o Kobeko.",
+  "tooltip.monsterexpansion.rhyza_kobeko_armor.set_bonus": "Bônus de Conjunto:",
+  "tooltip.monsterexpansion.rhyza_kobeko_armor.movement_speed": "O Kobeko ganha velocidade de movimento aumentada.",
+
+  "tooltip.monsterexpansion.skrythe_armor.description": "Uma peça de armadura fabricada com materiais de Skrythe.",
+  "tooltip.monsterexpansion.skrythe_armor.set_bonus": "Bônus de Conjunto:",
+  "tooltip.monsterexpansion.skrythe_armor.resilience": "Você ganha a resiliência do Skrythe; resistência a repulsão aumentada.",
+  "tooltip.monsterexpansion.skrythe_armor.might": "Você ganha o poder do Skrythe; resistência a dano de queda, quedas geram ondas de choque.",
+  "tooltip.monsterexpansion.skrythe_armor.damage_reduction": "+1.2% de Redução de Dano para cada peça usada.",
+
+  "tooltip.monsterexpansion.skrythe_kobeko_armor.description": "Uma peça de armadura fabricada com materiais de Skrythe para o Kobeko.",
+  "tooltip.monsterexpansion.skrythe_kobeko_armor.set_bonus": "Bônus de Conjunto:",
+  "tooltip.monsterexpansion.skrythe_kobeko_armor.fall_resistance": "O Kobeko torna-se resistente a dano de queda.",
+
+  "tooltip.monsterexpansion.rhyza_armor.description": "Uma peça de armadura fabricada com materiais de Rhyza.",
+  "tooltip.monsterexpansion.rhyza_armor.set_bonus": "Bônus de Conjunto:",
+  "tooltip.monsterexpansion.rhyza_armor.dazzle_resistance": "Você ganha a resistência ao ofuscamento do Rhyza; você é imune a luz cegante.",
+  "tooltip.monsterexpansion.rhyza_armor.cloaking": "Você ganha a camuflagem do Rhyza; você fica invisível quando estiver com pouca vida.",
+  "tooltip.monsterexpansion.rhyza_armor.damage_reduction": "+0.6% de Redução de Dano para cada peça usada.",
+
+  "tooltip.monsterexpansion.drop_rarity.common": "Saque Comum",
+  "tooltip.monsterexpansion.drop_rarity.uncommon": "Saque Incomum",
+  "tooltip.monsterexpansion.drop_rarity.rare": "Saque Raro",
+
+  "tooltip.monsterexpansion.bedrock_core.description": "Um núcleo denso e ancestral formado sob uma pressão inimaginável. Ele carrega a força inabalável da terra.",
+
+  "tooltip.monsterexpansion.deepfreeze_gland.description": "Um órgão de temperatura negativa colhido do Leivekilth. Ele secreta uma essência fria o suficiente para congelar aço sólido.",
+
+  "tooltip.monsterexpansion.duskrend.description": "Forjada da garra do crepúsculo, ela se move mais rápido que sua própria sombra.",
+  "tooltip.monsterexpansion.duskrend.on_hit": "» Ao atingir: ",
+  "tooltip.monsterexpansion.duskrend.on_hit.effect": "Ganha Frenesi, aumentando a velocidade.",
+  "tooltip.monsterexpansion.duskrend.use": "» Usar: ",
+  "tooltip.monsterexpansion.duskrend.use.effect": "Arrancada para frente, consumindo todos os acúmulos.",
+  "tooltip.monsterexpansion.duskrend.frenzy_stacks": "Acúmulos de Frenesi: ",
+  "tooltip.monsterexpansion.duskrend.flavor": "O crepúsculo caça com graça silenciosa.",
+
+  "tooltip.monsterexpansion.flash_bundle.description": "Um aglomerado compacto de flechas de flash, arremessado por Kobekos que não querem se incomodar com arcos.",
+  "tooltip.monsterexpansion.kobeko_gadget": "Gadget de Kobeko",
+
+  "tooltip.monsterexpansion.hoarfrost_shard.description": "Um fragmento cristalino infundido com uma geada cortante deixado pelo Leivekilth.",
+
+  "tooltip.monsterexpansion.horn_of_shattercry.description": "O grande berrante de poder ressonante.",
+  "tooltip.monsterexpansion.horn_of_shattercry.crouch_use": "» Agachar + Usar: ",
+  "tooltip.monsterexpansion.horn_of_shattercry.roar": "Libera um rugido que estremece o chão.",
+  "tooltip.monsterexpansion.horn_of_shattercry.standing_use": "» Usar em pé: ",
+  "tooltip.monsterexpansion.horn_of_shattercry.projectile": "Dispara um orbe de distorção que ecoa para fora.",
+  "tooltip.monsterexpansion.horn_of_shattercry.flavor": "O ar treme ao seu chamado.",
+
+  "tooltip.monsterexpansion.kobeko_locator.description": "Permite que você teletransporte o seu Kobeko domesticado para você de qualquer lugar!",
+
+  "tooltip.monsterexpansion.leivekilth_armorplate.description": "Um fragmento denso de escama deixado pelo Leivekilth.",
+
+  "tooltip.monsterexpansion.leivekilth_rimepelt.description": "Uma pele entrelaçada com gelo solta pelo Leivekilth.",
+
+  "tooltip.monsterexpansion.leivekilth_tail.description": "Parte da cauda do Leivekilth deixada ao cortar a cauda da fera de seu corpo.",
+  "tooltip.monsterexpansion.drop_rarity.tail": "Saque de Cauda",
+
+  "tooltip.monsterexpansion.leivekilth_tusk.description": "Uma presa massiva e congelada arrancada do Leivekilth.",
+
+  "tooltip.monsterexpansion.monster_hardbone.description": "Um pedaço robusto de osso deixado por um Monstro Grande.",
+
+  "tooltip.monsterexpansion.rakoth_carapace.description": "Um segmento endurecido de exoesqueleto deixado pelo Rakoth.",
+
+  "tooltip.monsterexpansion.rakoth_horn.description": "Um chifre serrilhado quebrado da coroa do Rakoth.",
+
+  "tooltip.monsterexpansion.rakoth_tail.description": "Parte da cauda do Rakoth deixada ao cortar a cauda da fera de seu corpo.",
+
+  "tooltip.monsterexpansion.rakoth_underplate.description": "Uma placa de armadura densa e marcada arrancada da parte inferior do Rakoth.",
+
+  "tooltip.monsterexpansion.rhyza_carapace.description": "Um segmento endurecido de exoesqueleto deixado pelo Rhyza.",
+
+  "tooltip.monsterexpansion.rhyza_claw.description": "Uma garra afiada como navalha deixada pelo Rhyza.",
+
+  "tooltip.monsterexpansion.rhyza_fur.description": "Um pedaço grosso de pelagem deixado pelo Rhyza.",
+
+  "tooltip.monsterexpansion.rhyza_gleam_core.description": "Um núcleo radiante que pulsa com uma luz cegante, deixado pelo Rhyza.",
+
+  "tooltip.monsterexpansion.rhyza_scale.description": "Um fragmento duro de escama deixado pelo Rhyza.",
+
+  "tooltip.monsterexpansion.rhyza_tail.description": "Parte da cauda do Rhyza deixada ao cortar a cauda da fera de seu corpo.",
+
+  "tooltip.monsterexpansion.rimescourge.description": "Uma maça que golpeia com ira glacial.",
+  "tooltip.monsterexpansion.rimescourge.effect.hit": "» Ao atingir: ",
+  "tooltip.monsterexpansion.rimescourge.effect.hit.details": "Aplica Veia de Gelo, sobrepondo um frio que reduz a velocidade e entorpece os inimigos.",
+  "tooltip.monsterexpansion.rimescourge.effect.use": "» Usar: ",
+  "tooltip.monsterexpansion.rimescourge.effect.use.details": "Libera uma onda de choque congelante de espinhos de gelo.",
+  "tooltip.monsterexpansion.rimescourge.flavor": "Você sente o ar ficar mais frio ao seu redor...",
+
+  "tooltip.monsterexpansion.serrated_sharpclaw.description": "Uma garra serrilhada do Rhyza, afiada com precisão não natural e altamente valiosa.",
+
+  "tooltip.monsterexpansion.sedimentary_scarp_shell.description": "Um fragmento de concha em camadas, duro como pedra, quebrado do Rakoth.",
+
+  "tooltip.monsterexpansion.skrythe_armorplate.description": "Um fragmento denso de escama deixado pelo Skrythe.",
+
+  "tooltip.monsterexpansion.skrythe_fang.description": "uma presa afiada como navalha quebrada da mandíbula do Skrythe.",
+
+  "tooltip.monsterexpansion.skrythe_frill.description": "Uma gola azul vibrante deixada pelo Skrythe.",
+
+  "tooltip.monsterexpansion.skrythe_tail.description": "Parte da cauda do Skrythe deixada ao cortar a cauda da fera de seu corpo.",
+
+  "tooltip.monsterexpansion.skrythe_wing_membrane.description": "Um pedaço rasgado de membrana de asa deixado pelo Skrythe.",
+
+  "tooltip.monsterexpansion.taunt_shield.description": "Um escudo de Kobeko surrado, mais barulhento do que metálico, perfeito para atrair atenção.",
+
+  "tooltip.monsterexpansion.vigor_belt.description": "Um cinto robusto preparado para carregar poções, permitindo que um Kobeko cure a si mesmo ou ao seu mestre rapidamente.",
+
+  "tooltip.monsterexpansion.vocal_resonance_fold.description": "Um fragmento mágico da garganta do Skrythe, zumbindo com o rugido persistente do wyvern.",
+
+  "tooltip.monsterexpansion.whistlewind_horn.description": "Um berrante de liga de Skrythe que libera uma rajada de vento, fortalecendo seu portador Kobeko.",
+
+
+  "creativetab.monsterexpansion_tab": "Monster Expansion"
+}

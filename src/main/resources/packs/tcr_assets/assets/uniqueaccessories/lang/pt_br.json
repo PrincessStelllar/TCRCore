@@ -1,0 +1,420 @@
+{
+  "item.uniqueaccessories.accessory_box": "Caixa de Acessórios",
+  "item.uniqueaccessories.ancient_chisel": "Cinzel Antigo",
+  "item.uniqueaccessories.all_purpose_seasoning": "Tempero Multiuso",
+  "item.uniqueaccessories.amplifier_stone": "Pedra Amplificadora",
+  "item.uniqueaccessories.anklet_of_fortune": "Tornozeleira da Fortuna",
+  "item.uniqueaccessories.black_belt": "Faixa Preta",
+  "item.uniqueaccessories.blade_shoes": "Sapatos de Lâmina",
+  "item.uniqueaccessories.bloody_knife": "Faca Ensanguentada",
+  "item.uniqueaccessories.burning_soul": "Alma Ardente",
+  "item.uniqueaccessories.championship_belt": "Cinturão de Campeão",
+  "item.uniqueaccessories.cursed_doll_head": "Cabeça de Boneca Amaldiçoada",
+  "item.uniqueaccessories.devils_eyeball": "Olho do Diabo",
+  "item.uniqueaccessories.durable_spring": "Mola Durável",
+  "item.uniqueaccessories.ender_lens": "Lente Ender",
+  "item.uniqueaccessories.fossil_shark_tooth": "Dente de Tubarão Fóssil",
+  "item.uniqueaccessories.golden_egg_charm": "Ovo de Ouro",
+  "item.uniqueaccessories.hero_emblem": "Emblema do Herói",
+  "item.uniqueaccessories.large_paddle": "Remo Grande",
+  "item.uniqueaccessories.life_jacket_belt": "Cinto Salva-vidas",
+  "item.uniqueaccessories.magick_quiver": "Aljava Mágica",
+  "item.uniqueaccessories.master_ninja_tabi": "Tabi de Mestre Ninja",
+  "item.uniqueaccessories.moon_stone": "Pedra da Lua",
+  "item.uniqueaccessories.ninjutsu_manual": "Manual de Ninjutsu",
+  "item.uniqueaccessories.power_crystal": "Cristal de Poder",
+  "item.uniqueaccessories.rocket_shoes": "Sapatos de Foguete",
+  "item.uniqueaccessories.rose_of_temptation": "Rosa da Tentação",
+  "item.uniqueaccessories.royal_honeycomb": "Favo de Mel Real",
+  "item.uniqueaccessories.rusty_guillotine_blade": "Lâmina de Guilhotina Enferrujada",
+  "item.uniqueaccessories.sharp_fishing_hook": "Anzol Afiado",
+  "item.uniqueaccessories.shiny_stone": "Pedra Brilhante",
+  "item.uniqueaccessories.silver_cat_tail": "Cauda de Gato de Prata",
+  "item.uniqueaccessories.small_propulsion_device": "Pequeno Dispositivo de Propulsão",
+  "item.uniqueaccessories.snow_golem_doll": "Boneco de Golem de Neve",
+  "item.uniqueaccessories.soul_gem": "Gema da Alma",
+  "item.uniqueaccessories.starved_wolf_skull": "Crânio de Lobo Faminto",
+  "item.uniqueaccessories.still_beating_heart": "Coração Ainda Pulsante",
+  "item.uniqueaccessories.strong_sticky_slime_ball": "Bola de Slime Pegajosa Forte",
+  "item.uniqueaccessories.sun_stone": "Pedra do Sol",
+  "item.uniqueaccessories.supreme_meat": "Carne Suprema",
+  "item.uniqueaccessories.survival_belt": "Cinto de Sobrevivência",
+  "item.uniqueaccessories.suspicious_mushroom": "Cogumelo Suspeito",
+  "item.uniqueaccessories.tabi": "Tabi",
+  "item.uniqueaccessories.tool_belt": "Cinto de Ferramentas",
+  "item.uniqueaccessories.waist_warmer": "Aquecedor de Cintura",
+  "item.uniqueaccessories.withered_heart": "Coração Withered",
+
+
+  "curios.identifier.feet": "Pés",
+  "curios.modifiers.feet": "Quando usado nos pés:",
+
+
+  "entity.uniqueaccessories.golden_egg": "Ovo de Ouro",
+
+
+  "creativetab.unique_accessories_tab": "Unique Accessories",
+
+
+  "tooltip.uniqueaccessories.hold_shift": "Segure Shift para detalhes",
+
+  "tooltip.uniqueaccessories.accessory_box.desc1": "Contém acessórios aleatórios",
+  "tooltip.uniqueaccessories.accessory_box.desc2": "Incomum: 80%",
+  "tooltip.uniqueaccessories.accessory_box.desc3": "Raro: 18%",
+  "tooltip.uniqueaccessories.accessory_box.desc4": "Épico: 2%",
+
+  "tooltip.uniqueaccessories.ancient_chisel.desc1": "Velocidade de Mineração +%s%%",
+
+  "tooltip.uniqueaccessories.all_purpose_seasoning.desc1": "Ao comer comida, você recupera 1 HP e adicionalmente recupera 2 níveis de Fome",
+
+  "tooltip.uniqueaccessories.amplifier_stone.desc1": "Ao usar uma trombeta, toca um som de explosão e causa %2$s de dano a criaturas dentro de %1$sm",
+
+  "tooltip.uniqueaccessories.anklet_of_fortune.desc1": "%s%% de chance de negar efeitos negativos",
+
+  "tooltip.uniqueaccessories.black_belt.desc1": "Chance de Esquiva +%s%%",
+  "tooltip.uniqueaccessories.black_belt.desc2": "Ao esquivar: Dano de Ataque +4 / Velocidade de Movimento +20% por 5 segundos",
+
+  "tooltip.uniqueaccessories.blade_shoes.desc1": "Destrói plantas e teias de aranha aos seus pés",
+
+  "tooltip.uniqueaccessories.bloody_knife.desc1": "Aumenta o dano causado em 30% ao atacar uma criatura por trás",
+
+  "tooltip.uniqueaccessories.burning_soul.desc1": "Ao sofrer dano letal, gasta níveis de experiência para evitar a morte",
+  "tooltip.uniqueaccessories.burning_soul.desc2": "Consome %s nível por ponto de dano",
+
+  "tooltip.uniqueaccessories.championship_belt.desc1": "Dano de Ataque Desarmado +%1$s / Velocidade de Ataque Desarmado +%2$s",
+  "tooltip.uniqueaccessories.championship_belt.desc2": "Por slot de armadura vazio: Armadura +%1$s / Velocidade de Movimento +%2$s%% / Chance de Esquiva +%3$s%% / Resistência a Repulsão +%4$s%%",
+
+  "tooltip.uniqueaccessories.cursed_doll.desc1": "A cada 20 segundos, aplica um efeito negativo aleatório por 20 segundos a criaturas dentro de %3$sm, incluindo você",
+
+  "tooltip.uniqueaccessories.devils_eyeball.desc1": "Dano Crítico +%1$s%% / Chance Crítica +%2$s%%",
+
+  "tooltip.uniqueaccessories.durable_spring.desc1": "Velocidade de Movimento +%s%%",
+  "tooltip.uniqueaccessories.durable_spring.desc2": "Aumenta a altura do pulo",
+  "tooltip.uniqueaccessories.durable_spring.desc3": "Recebe dano de queda apenas de quedas de 7+ blocos",
+
+  "tooltip.uniqueaccessories.ender_lens.desc1": "Ao usar a Luneta, se você olhar para uma criatura dentro de 320m por 2 segundos, você será teleportado para aquela coordenada",
+  "tooltip.uniqueaccessories.ender_lens.desc2": "Não pode teleportar para criaturas voadoras",
+
+  "tooltip.uniqueaccessories.fossil_shark_tooth.desc1": "Penetração de Armadura +%s",
+
+  "tooltip.uniqueaccessories.golden_egg_charm.desc1": "Arremessa um Ovo de Ouro em vez de um ovo normal",
+  "tooltip.uniqueaccessories.golden_egg_charm.desc2": "Ovo de Ouro : %s de dano, gera uma Pepita de Ouro no ponto de impacto",
+
+  "tooltip.uniqueaccessories.hero_emblem.desc1": "Armadura +4 / Dano de Ataque +%1$s / Dano de Flecha +%2$s%%",
+  "tooltip.uniqueaccessories.hero_emblem.desc2": "HP ≤ 10 : Dano de Ataque +%1$s / Dano de Flecha +%2$s%% / Velocidade de Movimento +%3$s%%",
+  "tooltip.uniqueaccessories.hero_emblem.desc3": "HP = 1 : Dano de Ataque +%1$s / Dano de Flecha +%2$s%% / Chance de Esquiva +%3$s%% / Chance Crítica +%4$s%% / Neutraliza Efeitos Negativos",
+
+  "tooltip.uniqueaccessories.large_paddle.desc1": "Velocidade de Movimento do Barco +50%",
+
+  "tooltip.uniqueaccessories.life_jacket_belt.desc1": "Sobe rapidamente debaixo d'água e flutua na superfície",
+
+  "tooltip.uniqueaccessories.magick_quiver.desc1": "Dano de Flecha +%s%% / Velocidade de Flecha +%s%%",
+
+  "tooltip.uniqueaccessories.master_ninja_tabi.desc1": "Velocidade de Movimento +15%",
+  "tooltip.uniqueaccessories.master_ninja_tabi.desc2": "Toque duas vezes em uma tecla de movimento para dar um passo rápido de longa distância naquela direção",
+  "tooltip.uniqueaccessories.master_ninja_tabi.desc3": "O passo rápido requer um nível de fome de 7 ou superior",
+
+  "tooltip.uniqueaccessories.moon_stone.desc1": "Efeitos aplicam-se apenas à noite",
+  "tooltip.uniqueaccessories.moon_stone.desc2": "Dano de Ataque +%1$s / Dano de Flecha +%2$s%% / Velocidade de Ataque +%3$s",
+  "tooltip.uniqueaccessories.moon_stone.desc3": "Armadura +%1$s / Chance Crítica +%2$s%% / Velocidade de Mineração +%3$s%%",
+  "tooltip.uniqueaccessories.moon_stone.desc4": "Cura 1 HP a cada %1$s segundos",
+
+  "tooltip.uniqueaccessories.ninjutsu_manual.desc1": "Velocidade de Movimento ao Agachar +200%",
+  "tooltip.uniqueaccessories.ninjutsu_manual.desc2": "Ao agachar, nega efeitos de bloco e diminui o alcance de detecção de criaturas próximas em 60%",
+  "tooltip.uniqueaccessories.ninjutsu_manual.desc3": "Efeitos de bloco: Teia de Aranha / Frutas Doces / Cacto / Placa de Pressão / Gancho de Armadilha",
+
+  "tooltip.uniqueaccessories.power_crystal.desc1": "Velocidade de Puxada +30%",
+
+  "tooltip.uniqueaccessories.rocket_shoes.desc1": "Pressionar a tecla de pulo no ar ativará o propulsor para subir",
+  "tooltip.uniqueaccessories.rocket_shoes.desc2": "Ativações consecutivas aumentam o poder de ascensão",
+  "tooltip.uniqueaccessories.rocket_shoes.desc3": "Dura até %1$s segundos e pode ser usado novamente ao pousar",
+
+  "tooltip.uniqueaccessories.rose_of_temptation.desc1": "Atrai criaturas neutras em um raio de 16m",
+  "tooltip.uniqueaccessories.rose_of_temptation.desc2": "A habilidade será ativada mesmo quando segurada na mão",
+
+  "tooltip.uniqueaccessories.royal_honeycomb.desc1": "Ao ser atacado por criaturas, invoca uma abelha aprimorada por 8 segundos",
+
+  "tooltip.uniqueaccessories.rusty_guillotine_blade.desc1": "Aumenta o dano causado a criaturas com HP abaixo de 40% em 80%",
+
+  "tooltip.uniqueaccessories.sharp_fishing_hook.desc1": "Causa %1$s de dano quando o anzol atinge uma criatura ou ao recolher",
+  "tooltip.uniqueaccessories.sharp_fishing_hook.desc2": "Aumenta a habilidade de puxar criaturas com uma vara de pescar",
+
+  "tooltip.uniqueaccessories.shiny_stone.desc1": "Se você não fizer nada por 2 segundos, regenera HP rapidamente",
+
+  "tooltip.uniqueaccessories.silver_cat_tail.desc1": "Velocidade de Corrida +%s%%",
+  "tooltip.uniqueaccessories.silver_cat_tail.desc2": "Nega dano de queda, a menos que seja letal",
+
+  "tooltip.uniqueaccessories.small_propulsion.desc1": "Velocidade de Projétil +%1$s%% (excluindo flechas)",
+
+  "tooltip.uniqueaccessories.snow_golem_doll.desc1": "Dano de Bola de Neve +%1$s",
+  "tooltip.uniqueaccessories.snow_golem_doll.desc2": "Gera neve aos seus pés enquanto agacha",
+
+  "tooltip.uniqueaccessories.soul_gem.desc1": "Restaura %1$s HP ao matar uma criatura",
+
+  "tooltip.uniqueaccessories.starved_wolf_skull.desc1": "Sempre afetado por Fome, mas cura %1$s HP em um golpe corpo a corpo bem-sucedido",
+  "tooltip.uniqueaccessories.starved_wolf_skull.desc2": "Nível de fome ≤ 6 : Velocidade de Movimento +%1$s%%",
+  "tooltip.uniqueaccessories.starved_wolf_skull.desc3": "Nível de fome = 0 : Dano de Ataque +%1$s",
+
+  "tooltip.uniqueaccessories.still_beating_heart.desc1": "Dano de Ataque +2",
+  "tooltip.uniqueaccessories.still_beating_heart.desc2": "Quando o HP está cheio, o dano causado aumenta em 20%",
+
+  "tooltip.uniqueaccessories.strengthened_sticky_slime_ball.desc1": "Velocidade de Movimento -10%",
+  "tooltip.uniqueaccessories.strengthened_sticky_slime_ball.desc2": "Agora pode escalar paredes de blocos, agachar prende você no lugar",
+
+  "tooltip.uniqueaccessories.strong_sticky_slime_ball.desc1": "Resistência a Repulsão +10% / Velocidade de Movimento -10%",
+  "tooltip.uniqueaccessories.strong_sticky_slime_ball.desc2": "Agora pode escalar paredes de blocos, agachar prende você no lugar",
+
+  "tooltip.uniqueaccessories.sun_stone.desc1": "Efeitos aplicam-se apenas durante o dia",
+  "tooltip.uniqueaccessories.sun_stone.desc2": "Dano de Ataque +%1$s / Dano de Flecha +%2$s%% / Velocidade de Ataque +%3$s",
+  "tooltip.uniqueaccessories.sun_stone.desc3": "Armadura +%1$s / Chance Crítica +%2$s%% / Velocidade de Mineração +%3$s%%",
+  "tooltip.uniqueaccessories.sun_stone.desc4": "Cura 1 HP a cada %1$s segundos",
+
+  "tooltip.uniqueaccessories.supreme_meat.desc1": "Fortalece seus lobos seguidores : Dano de Ataque +%1$s / Armadura +%2$s / Velocidade de Movimento +%3$s%%",
+
+  "tooltip.uniqueaccessories.survival_belt.desc1": "Altura de Degrau +0.5",
+  "tooltip.uniqueaccessories.survival_belt.desc2": "Aumenta os drops de criaturas do tipo animal",
+  "tooltip.uniqueaccessories.survival_belt.desc3": "Ao agachar, clique com o botão direito em um bloco com a mão vazia para incendiá-lo",
+  "tooltip.uniqueaccessories.survival_belt.desc4": "Fique perto de um fogo para curar 1 HP a cada 2 segundos",
+
+  "tooltip.uniqueaccessories.suspicious_mushroom.desc1": "Enquanto sob um efeito negativo, o dano causado aumenta em 15%",
+  "tooltip.uniqueaccessories.suspicious_mushroom.desc2": "Quando sob um efeito negativo, cura 1 HP a cada 2 segundos por 10 segundos",
+  "tooltip.uniqueaccessories.suspicious_mushroom.desc3": "Esta habilidade tem um tempo de recarga de 10 segundos após o efeito terminar",
+
+  "tooltip.uniqueaccessories.tabi.desc1": "Velocidade de Caminhada +%1$s%%",
+  "tooltip.uniqueaccessories.tabi.desc2": "Toque duas vezes em uma tecla de movimento para dar um passo rápido naquela direção",
+  "tooltip.uniqueaccessories.tabi.desc3": "O passo rápido só pode ser ativado no chão e com um nível de fome de 7 ou superior",
+
+  "tooltip.uniqueaccessories.tool_belt.desc1": "Alcance de Blocos +%1$sm",
+  "tooltip.uniqueaccessories.tool_belt.desc2": "Velocidade de Colocação de Blocos +100%",
+
+  "tooltip.uniqueaccessories.waist_warmer.desc1": "Nega dano de congelamento da Neve Fofa",
+  "tooltip.uniqueaccessories.waist_warmer.desc2": "Ao acordar de manhã: Cura 10 HP e ganha 2 min de Velocidade I, Pressa I e Força I",
+
+  "tooltip.uniqueaccessories.withered_heart.desc1": "Define o HP máximo para 1",
+
+
+  "adv.uniqueaccessories.collect_05.title": "Colecionador Iniciante",
+  "adv.uniqueaccessories.collect_05.desc": "Obtenha 5 acessórios diferentes",
+  "adv.uniqueaccessories.collect_10.title": "Entusiasta de Acessórios",
+  "adv.uniqueaccessories.collect_10.desc": "Obtenha 10 acessórios diferentes",
+  "adv.uniqueaccessories.collect_20.title": "Connoisseur",
+  "adv.uniqueaccessories.collect_20.desc": "Obtenha 20 acessórios diferentes",
+  "adv.uniqueaccessories.collect_40.title": "Colecionador Definitivo",
+  "adv.uniqueaccessories.collect_40.desc": "Obtenha todos os acessórios",
+
+  "adv.uniqueaccessories.get_accessory_box.title": "Tente a Sorte",
+  "adv.uniqueaccessories.get_accessory_box.desc": "Obtenha uma Caixa de Acessórios",
+
+  "adv.uniqueaccessories.get_any_accessory.title": "Primeiro Acessório!",
+  "adv.uniqueaccessories.get_any_accessory.desc": "Obtenha qualquer acessório",
+
+  "adv.uniqueaccessories.get_epic_accessory.title": "Achado Épico",
+  "adv.uniqueaccessories.get_epic_accessory.desc": "Obtenha qualquer acessório Épico",
+
+  "adv.uniqueaccessories.get_epic_from_box.title": "Jackpot!!!",
+  "adv.uniqueaccessories.get_epic_from_box.desc": "Obtenha um acessório Épico de uma Caixa de Acessórios",
+
+  "ua.category.belt": "Cinto",
+  "ua.category.charm": "Amuleto",
+  "ua.category.feet": "Pés",
+  "ua.category.loot": "Saque",
+
+
+  "ua.screen.title.global": "Unique Accessories - Cliente",
+  "ua.screen.title.server_ro": "Unique Accessories  - Cliente",
+  "ua.screen.title.world": "Unique Accessories - Cliente",
+
+
+  "ua.config.ancientChiselMining": "Cinzel Antigo: Velocidade de Mineração",
+
+  "ua.config.amplifierStoneDamage": "Pedra Amplificadora: Dano",
+  "ua.config.amplifierStoneRadius": "Pedra Amplificadora: Raio",
+
+  "ua.config.ankletOfFortuneDebuffNegateChance": "Tornozeleira da Fortuna: Chance de Negar Debuff",
+
+  "ua.config.blackBeltDodgeChance": "Faixa Preta: Chance de Esquiva",
+
+  "ua.config.burningSoulLevelCost": "Alma Ardente: Custo de Nível",
+
+  "ua.config.championshipBeltArmor": "Cinturão de Campeão: Armadura",
+  "ua.config.championshipBeltDodgeChance": "Cinturão de Campeão: Chance de Esquiva",
+  "ua.config.championshipBeltKnockbackResistance": "Cinturão de Campeão: Resistência a Repulsão",
+  "ua.config.championshipBeltMovementSpeed": "Cinturão de Campeão: Velocidade de Movimento",
+  "ua.config.championshipBeltUnarmedAttackDamage": "Cinturão de Campeão: Dano de Ataque Desarmado",
+  "ua.config.championshipBeltUnarmedAttackSpeed": "Cinturão de Campeão: Velocidade de Ataque Desarmado",
+
+  "ua.config.cursedDollHeadEffectRadius": "Cabeça de Boneca Amaldiçoada: Raio",
+
+  "ua.config.devilsEyeballCriticalChance": "Olho do Diabo: Chance Crítica",
+  "ua.config.devilsEyeballCriticalDamage": "Olho do Diabo: Dano Crítico",
+
+  "ua.config.durableSpringMovementSpeed": "Mola Durável: Velocidade de Movimento",
+
+  "ua.config.fossilSharkToothPenetration": "Dente de Tubarão Fóssil: Penetração de Armadura",
+
+  "ua.config.goldenEggDamage": "Ovo de Ouro: Dano do Ovo",
+  "ua.config.goldenEggChance": "Ovo de Ouro: Chance de Drop",
+
+
+  "ua.config.heroEmblemAttackDamage": "Emblema do Herói: Dano de Ataque",
+  "ua.config.heroEmblemArrowDamage": "Emblema do Herói: Dano de Flecha",
+  "ua.config.heroEmblemLowHpAttackDamage": "Emblema do Herói (HP Baixo): Dano de Ataque",
+  "ua.config.heroEmblemLowHpArrowDamage": "Emblema do Herói (HP Baixo): Dano de Flecha",
+  "ua.config.heroEmblemLowHpMovementSpeed": "Emblema do Herói (HP Baixo): Velocidade de Movimento",
+  "ua.config.heroEmblem1HpAttackDamage": "Emblema do Herói (1 HP): Dano de Ataque",
+  "ua.config.heroEmblem1HpArrowDamage": "Emblema do Herói (1 HP): Dano de Flecha",
+  "ua.config.heroEmblem1HpCriticalChance": "Emblema do Herói (1 HP): Chance Crítica",
+  "ua.config.heroEmblem1HpDodgeChance": "Emblema do Herói (1 HP): Chance de Esquiva",
+
+  "ua.config.magickQuiverArrowDamage": "Aljava Mágica: Dano de Flecha",
+  "ua.config.magickQuiverArrowVelocity": "Aljava Mágica: Velocidade de Flecha",
+
+  "ua.config.moonStoneArmor": "Pedra da Lua: Armadura",
+  "ua.config.moonStoneArrowDamage": "Pedra da Lua: Dano de Flecha",
+  "ua.config.moonStoneAttackDamage": "Pedra da Lua: Dano de Ataque",
+  "ua.config.moonStoneAttackSpeed": "Pedra da Lua: Velocidade de Ataque",
+  "ua.config.moonStoneCriticalChance": "Pedra da Lua: Chance Crítica",
+  "ua.config.moonStoneHealSec": "Pedra da Lua: Intervalo de Cura",
+  "ua.config.moonStoneMiningSpeed": "Pedra da Lua: Velocidade de Mineração",
+
+  "ua.config.rocketShoesMaxTicks": "Sapatos de Foguete: Ticks Ativos do Propulsor",
+
+  "ua.config.royalHoneycombChance": "Favo de Mel Real: Chance de Drop",
+
+  "ua.config.sharpFishingHookDamage": "Anzol Afiado: Dano",
+
+  "ua.config.smallPropulsionMultiplier": "Pequena Propulsão: Multiplicador de Velocidade",
+
+  "ua.config.silverCatTailSprintSpeed": "Cauda de Gato de Prata: Velocidade de Corrida",
+
+  "ua.config.snowGolemDollSnowballDamage": "Boneco de Golem de Neve: Dano de Bola de Neve",
+
+  "ua.config.soulGemHeal": "Gema da Alma: Cura",
+
+  "ua.config.starvedWolfSkullAttackDamage": "Crânio de Lobo Faminto: Dano de Ataque",
+  "ua.config.starvedWolfSkullHeal": "Crânio de Lobo Faminto: Cura",
+  "ua.config.starvedWolfSkullMovementSpeed": "Crânio de Lobo Faminto: Velocidade de Movimento",
+
+  "ua.config.sunStoneArmor": "Pedra do Sol: Armadura",
+  "ua.config.sunStoneArrowDamage": "Pedra do Sol: Dano de Flecha",
+  "ua.config.sunStoneAttackDamage": "Pedra do Sol: Dano de Ataque",
+  "ua.config.sunStoneAttackSpeed": "Pedra do Sol: Velocidade de Ataque",
+  "ua.config.sunStoneCriticalChance": "Pedra do Sol: Chance Crítica",
+  "ua.config.sunStoneHealSec": "Pedra do Sol: Intervalo de Cura",
+  "ua.config.sunStoneMiningSpeed": "Pedra do Sol: Velocidade de Mineração",
+
+  "ua.config.supremeMeatAttackDamage": "Carne Suprema: Dano de Ataque",
+  "ua.config.supremeMeatArmor": "Carne Suprema: Armadura",
+  "ua.config.supremeMeatMovementSpeed": "Carne Suprema: Velocidade de Movimento",
+
+  "ua.config.tabiWalkSpeed": "Tabi: Velocidade de Caminhada",
+
+  "ua.config.toolBeltBlockReach": "Cinto de Ferramentas: Alcance de Bloco",
+
+  "ua.config.witheredHeartMaxHp": "Coração Withered: HP Máximo",
+
+  "ua.config.loot.chances.accessory_box.ancient_city": "Caixa de Acessórios: Chance em Cidade Ancestral",
+  "ua.config.loot.chances.accessory_box.bastion_treasure": "Caixa de Acessórios: Chance em Tesouro do Bastião",
+  "ua.config.loot.chances.accessory_box.stronghold_corridor": "Caixa de Acessórios: Chance em Corredor da Fortaleza",
+  "ua.config.loot.chances.accessory_box.stronghold_crossing": "Caixa de Acessórios: Chance em Cruzamento da Fortaleza",
+  "ua.config.loot.chances.accessory_box.pillager_outpost": "Caixa de Acessórios: Chance em Posto Avançado Pillager",
+  "ua.config.loot.chances.accessory_box.shipwreck_treasure": "Caixa de Acessórios: Chance em Tesouro de Naufrágio",
+  "ua.config.loot.chances.accessory_box.simple_dungeon": "Caixa de Acessórios: Chance em Dungeon Simples",
+  "ua.config.loot.chances.accessory_box.woodland_mansion": "Caixa de Acessórios: Chance em Mansão da Mata",
+
+  "ua.config.loot.chances.accessory_box.buried_treasure": "Caixa de Acessórios: Chance em Tesouro Enterrado",
+  "ua.config.loot.chances.accessory_box.desert_pyramid": "Caixa de Acessórios: Chance em Pirâmide do Deserto",
+  "ua.config.loot.chances.accessory_box.end_city_treasure": "Caixa de Acessórios: Chance em Cidade do End",
+  "ua.config.loot.chances.accessory_box.jungle_temple": "Caixa de Acessórios: Chance em Templo da Selva",
+  "ua.config.loot.chances.accessory_box.ruined_portal": "Caixa de Acessórios: Chance em Portal Ruinado",
+  "ua.config.loot.chances.accessory_box.village_desert_house": "Caixa de Acessórios: Chance em Casa da Vila (Deserto)",
+  "ua.config.loot.chances.accessory_box.village_plains_house": "Caixa de Acessórios: Chance em Casa da Vila (Planícies)",
+  "ua.config.loot.chances.accessory_box.village_savanna_house": "Caixa de Acessórios: Chance em Casa da Vila (Savana)",
+  "ua.config.loot.chances.accessory_box.village_snowy_house": "Caixa de Acessórios: Chance em Casa da Vila (Neve)",
+  "ua.config.loot.chances.accessory_box.village_taiga_house": "Caixa de Acessórios: Chance em Casa da Vila (Taiga)",
+
+  "ua.config.loot.chances.all_purpose_seasoning.village_desert_house": "Tempero Multiuso: Chance em Casa no Deserto",
+  "ua.config.loot.chances.all_purpose_seasoning.village_plains_house": "Tempero Multiuso: Chance em Casa nas Planícies",
+  "ua.config.loot.chances.all_purpose_seasoning.village_savanna_house": "Tempero Multiuso: Chance em Casa na Savana",
+  "ua.config.loot.chances.all_purpose_seasoning.village_snowy_house": "Tempero Multiuso: Chance em Casa na Neve",
+  "ua.config.loot.chances.all_purpose_seasoning.village_taiga_house": "Tempero Multiuso: Chance em Casa na Taiga",
+  "ua.config.loot.chances.amplifier_stone.abandoned_mineshaft": "Pedra Amplificadora: Chance em Mina Abandonada",
+  "ua.config.loot.chances.ancient_chisel.desert_pyramid": "Cinzel Antigo: Chance em Pirâmide do Deserto",
+  "ua.config.loot.chances.anklet_of_fortune.village_desert_house": "Tornozeleira da Fortuna: Chance em Casa no Deserto",
+  "ua.config.loot.chances.anklet_of_fortune.village_plains_house": "Tornozeleira da Fortuna: Chance em Casa nas Planícies",
+  "ua.config.loot.chances.anklet_of_fortune.village_savanna_house": "Tornozeleira da Fortuna: Chance em Casa na Savana",
+  "ua.config.loot.chances.anklet_of_fortune.village_snowy_house": "Tornozeleira da Fortuna: Chance em Casa na Neve",
+  "ua.config.loot.chances.anklet_of_fortune.village_taiga_house": "Tornozeleira da Fortuna: Chance em Casa na Taiga",
+  "ua.config.loot.chances.black_belt.pillager": "Faixa Preta: Chance de Drop de Pillager",
+  "ua.config.loot.chances.black_belt.vindicator": "Faixa Preta: Chance de Drop de Vindicador",
+  "ua.config.loot.chances.blade_shoes.village_desert_house": "Sapatos de Lâmina: Chance em Casa no Deserto",
+  "ua.config.loot.chances.blade_shoes.village_plains_house": "Sapatos de Lâmina: Chance em Casa nas Planícies",
+  "ua.config.loot.chances.blade_shoes.village_savanna_house": "Sapatos de Lâmina: Chance em Casa na Savana",
+  "ua.config.loot.chances.blade_shoes.village_snowy_house": "Sapatos de Lâmina: Chance em Casa na Neve",
+  "ua.config.loot.chances.blade_shoes.village_taiga_house": "Sapatos de Lâmina: Chance em Casa na Taiga",
+  "ua.config.loot.chances.bloody_knife.zombie": "Faca Ensanguentada: Chance de Drop de Zumbi",
+  "ua.config.loot.chances.bloody_knife.husk": "Faca Ensanguentada: Chance de Drop de Zumbi Múmia",
+  "ua.config.loot.chances.bloody_knife.witch": "Faca Ensanguentada: Chance de Drop de Bruxa",
+  "ua.config.loot.chances.burning_soul.warden": "Alma Ardente: Chance de Drop do Warden",
+  "ua.config.loot.chances.cursed_doll_head.witch": "Cabeça de Boneca Amaldiçoada: Chance de Drop de Bruxa",
+  "ua.config.loot.chances.devils_eyeball.bastion_treasure": "Olho do Diabo: Chance em Tesouro do Bastião",
+  "ua.config.loot.chances.devils_eyeball.nether_bridge": "Olho do Diabo: Chance em Ponte do Nether",
+  "ua.config.loot.chances.durable_spring.village_armorer": "Mola Durável: Chance em Vilarejo Armeiro",
+  "ua.config.loot.chances.durable_spring.village_desert_house": "Mola Durável: Chance em Casa no Deserto",
+  "ua.config.loot.chances.durable_spring.village_plains_house": "Mola Durável: Chance em Casa nas Planícies",
+  "ua.config.loot.chances.durable_spring.village_savanna_house": "Mola Durável: Chance em Casa na Savana",
+  "ua.config.loot.chances.durable_spring.village_snowy_house": "Mola Durável: Chance em Casa na Neve",
+  "ua.config.loot.chances.durable_spring.village_taiga_house": "Mola Durável: Chance em Casa na Taiga",
+  "ua.config.loot.chances.fossil_shark_tooth.ocean_ruin_cold": "Dente de Tubarão Fóssil: Chance em Ruína Oceânica (Fria)",
+  "ua.config.loot.chances.fossil_shark_tooth.ocean_ruin_warm": "Dente de Tubarão Fóssil: Chance em Ruína Oceânica (Morna)",
+  "ua.config.loot.chances.hero_emblem.ender_dragon": "Emblema do Herói: Chance de Drop do Ender Dragon",
+  "ua.config.loot.chances.large_paddle.village_fisher": "Remo Grande: Chance em Vilarejo Pescador",
+  "ua.config.loot.chances.large_paddle.village_desert_house": "Remo Grande: Chance em Casa no Deserto",
+  "ua.config.loot.chances.large_paddle.village_plains_house": "Remo Grande: Chance em Casa nas Planícies",
+  "ua.config.loot.chances.large_paddle.village_savanna_house": "Remo Grande: Chance em Casa na Savana",
+  "ua.config.loot.chances.large_paddle.village_snowy_house": "Remo Grande: Chance em Casa na Neve",
+  "ua.config.loot.chances.large_paddle.village_taiga_house": "Remo Grande: Chance em Casa na Taiga",
+  "ua.config.loot.chances.life_jacket_belt.shipwreck_treasure": "Cinto Salva-vidas: Chance em Tesouro de Naufrágio",
+  "ua.config.loot.chances.magick_quiver.pillager_outpost": "Aljava Mágica: Chance em Posto Avançado Pillager",
+  "ua.config.loot.chances.moon_stone.end_city_treasure": "Pedra da Lua: Chance em Tesouro da Cidade do End",
+  "ua.config.loot.chances.power_crystal.abandoned_mineshaft": "Cristal de Poder: Chance em Mina Abandonada",
+  "ua.config.loot.chances.rose_of_temptation.simple_dungeon": "Rosa da Tentação: Chance em Dungeon Simples",
+  "ua.config.loot.chances.sharp_fishing_hook.shipwreck_supply": "Anzol Afiado: Chance em Suprimentos de Naufrágio",
+  "ua.config.loot.chances.shiny_stone.jungle_temple": "Pedra Brilhante: Chance em Templo da Selva",
+  "ua.config.loot.chances.silver_cat_tail.woodland_mansion": "Cauda de Gato de Prata: Chance em Mansão da Mata",
+  "ua.config.loot.chances.small_propulsion_device.village_weaponsmith": "Pequeno Dispositivo de Propulsão: Chance em Vilarejo Ferreiro de Armas",
+  "ua.config.loot.chances.small_propulsion_device.village_desert_house": "Pequeno Dispositivo de Propulsão: Chance em Deserto da Vila",
+  "ua.config.loot.chances.small_propulsion_device.village_plains_house": "Pequeno Dispositivo de Propulsão: Chance em Planícies da Vila",
+  "ua.config.loot.chances.small_propulsion_device.village_savanna_house": "Pequeno Dispositivo de Propulsão: Chance em Savana da Vila",
+  "ua.config.loot.chances.small_propulsion_device.village_snowy_house": "Pequeno Dispositivo de Propulsão: Chance em Vila Nevada",
+  "ua.config.loot.chances.small_propulsion_device.village_taiga_house": "Pequeno Dispositivo de Propulsão: Chance em Taiga da Vila",
+  "ua.config.loot.chances.snow_golem_doll.igloo_chest": "Boneco de Golem de Neve: Chance em Baú de Iglo",
+  "ua.config.loot.chances.soul_gem.stronghold_corridor": "Gema da Alma: Chance em Corredor da Fortaleza",
+  "ua.config.loot.chances.soul_gem.stronghold_crossing": "Gema da Alma: Chance em Cruzamento da Fortaleza",
+  "ua.config.loot.chances.starved_wolf_skull.desert_pyramid": "Crânio de Lobo Faminto: Chance em Pirâmide do Deserto",
+  "ua.config.loot.chances.starved_wolf_skull.desert_well": "Crânio de Lobo Faminto: Chance em Poço do Deserto",
+  "ua.config.loot.chances.strong_sticky_slime_ball.slime": "Bola de Slime Pegajosa Forte: Chance de Drop de Slime",
+  "ua.config.loot.chances.sun_stone.ancient_city": "Pedra do Sol: Chance em Cidade Ancestral",
+  "ua.config.loot.chances.supreme_meat.hoglin": "Carne Suprema: Chance de Drop de Hoglin",
+  "ua.config.loot.chances.survival_belt.village_desert_house": "Cinto de Sobrevivência: Chance em Casa no Deserto",
+  "ua.config.loot.chances.survival_belt.village_plains_house": "Cinto de Sobrevivência: Chance em Casa nas Planícies",
+  "ua.config.loot.chances.survival_belt.village_savanna_house": "Cinto de Sobrevivência: Chance em Casa na Savana",
+  "ua.config.loot.chances.survival_belt.village_snowy_house": "Cinto de Sobrevivência: Chance em Casa na Neve",
+  "ua.config.loot.chances.survival_belt.village_taiga_house": "Cinto de Sobrevivência: Chance em Casa na Taiga",
+  "ua.config.loot.chances.still_beating_heart.piglin_brute": "Coração Ainda Pulsante: Chance de Drop de Piglin Bruto",
+  "ua.config.loot.chances.suspicious_mushroom.mooshroom": "Cogumelo Suspeito: Chance de Drop de Coguvaca",
+  "ua.config.loot.chances.tabi.pillager": "Tabi: Chance de Drop de Pillager",
+  "ua.config.loot.chances.tabi.vindicator": "Tabi: Chance de Drop de Vindicador",
+  "ua.config.loot.chances.tool_belt.village_toolsmith": "Cinto de Ferramentas: Chance em Vilarejo Ferreiro de Ferramentas",
+  "ua.config.loot.chances.tool_belt.village_desert_house": "Cinto de Ferramentas: Chance em Casa no Deserto",
+  "ua.config.loot.chances.tool_belt.village_plains_house": "Cinto de Ferramentas: Chance em Casa nas Planícies",
+  "ua.config.loot.chances.tool_belt.village_savanna_house": "Cinto de Ferramentas: Chance em Casa na Savana",
+  "ua.config.loot.chances.tool_belt.village_snowy_house": "Cinto de Ferramentas: Chance em Casa na Neve",
+  "ua.config.loot.chances.tool_belt.village_taiga_house": "Cinto de Ferramentas: Chance em Casa na Taiga",
+  "ua.config.loot.chances.waist_warmer.village_desert_house": "Aquecedor de Cintura: Chance em Casa no Deserto",
+  "ua.config.loot.chances.waist_warmer.village_plains_house": "Aquecedor de Cintura: Chance em Casa nas Planícies",
+  "ua.config.loot.chances.waist_warmer.village_savanna_house": "Aquecedor de Cintura: Chance em Casa na Savana",
+  "ua.config.loot.chances.waist_warmer.village_snowy_house": "Aquecedor de Cintura: Chance em Casa na Neve",
+  "ua.config.loot.chances.waist_warmer.village_taiga_house": "Aquecedor de Cintura: Chance em Casa na Taiga",
+  "ua.config.loot.chances.withered_heart.nether_bridge": "Coração Withered: Chance em Ponte de Fortaleza do Nether"
+}

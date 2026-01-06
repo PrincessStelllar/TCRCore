@@ -1,0 +1,9 @@
+{
+  "enchantment.aggrofix.aggrobaiting": "Provocação",
+  "enchantment.aggrofix.aggrobaiting.desc": "Clique com o botão direito para atrair monstros próximos",
+  "config.aggrofix.aggrofix": "Ajuste de Aggro",
+  "gamerule.useAggroFix": "Usar Sistema de Aggro",
+  "enchantment.aggrofix.aggronizing": "Hostilizante",
+  "enchantment.aggrofix.aggronizing.desc": "Ao causar dano a criaturas, o valor de aggro aplicado torna-se (1 + nível do encantamento) × dano causado",
+  "gamerule.useAggroFix.description": "Alterna o sistema de aggro"
+}
